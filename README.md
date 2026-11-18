@@ -1,2 +1,2 @@
-# portafolioHectorEncV1
+# Portafolio Hector Encarnacion
 Portafolio personal de Héctor Encarnación
